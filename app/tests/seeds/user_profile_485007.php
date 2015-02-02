@@ -1,0 +1,20 @@
+<?php
+return array(
+    "id" => 485007,
+    "current_address_id" => 5932414,
+    "balance" => 200.5,
+    "point" => 11330,
+    "email" => "lllasdf@ele.me",
+    "is_email_valid" => 1,
+    "mobile" => "18621795462",
+    "is_mobile_valid" => 1,
+    "validate_string" => "d0718a6565f7169a0bd4a571b04b99a",
+    "avatar" => "",
+    "current_invoice_id" => 14484,
+    "user_id" => 485007,
+    "payment_quota" => 0,
+    "payment_password" => "",
+    "name" => "",
+    "certification_type" => 0,
+    "referal_code" => "oce9a",
+);

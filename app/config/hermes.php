@@ -1,0 +1,5 @@
+<?php
+return array(
+    'audio' => '39547554ba1c9f1d03bf849a7881951680f094b8e169cef127ead1aa62868c7c',
+    'sms' => '0d5709c838482240f437d416c312691c77ae396c8e4b507fb04ce8139426ff05',
+);
